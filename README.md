@@ -1,12 +1,12 @@
-#Requirement Analysis in Software Development.
+# Requirement Analysis in Software Development.
 
 This project focuses on creating a comprehensive foundation for the airbnb clone application by documenting, analysing and structuring requirements. This repository is dedicated to documenting and exploring the process of requirement analysis in software development. It covers techniques, examples, and best practices for gathering, analyzing, and managing software requirements.
 
-##What is Requirement Analysis?
+## What is Requirement Analysis?
 requirement analysis is the crucial foundational process of identifying, documenting, validating, and refining the needs and expectations of stakeholders to create a clear blueprint for a new or altered software system. It involves understanding what a system must do (functional requirements) and the constraints it must operate within (non-functional requirements), ensuring the final product aligns with business goals and user expectations. This phase prevents misunderstandings, costly rework, and ensures project success by establishing a well-defined set of requirements before development begins.
  
 
-##Why is Requirement Analysis Important?
+## Why is Requirement Analysis Important?
 
     Reduces Risk:
     Early identification and analysis of requirements minimize the risk of misunderstandings that can lead to costly delays and rework later in the project. 
@@ -18,7 +18,7 @@ The documented requirements act as a clear roadmap for the development team, gui
 **Facilitates Communication**:
 A well-defined set of requirements reduces communication gaps and conflicts between different teams and stakeholders. 
 
-##Key Activities in Requirement Analysis
+## Key Activities in Requirement Analysis
 1. Requirement Gathering
 
 -Here, high level requirements are collected  from stakeholders, clients, and end users.
@@ -69,10 +69,10 @@ A well-defined set of requirements reduces communication gaps and conflicts betw
 
 -Prevents costly errors by detecting issues early in the software development lifecycle.
 
-##Types of Requirements:
+## Types of Requirements:
 There are 2 types of requrements: **Functional** and **Nonfunctional** requrements
 
-###Functional requirements:
+### Functional requirements:
 Functional requirements describe the specific behavior or functions of the system, such as tasks, data processing, and user interactions.These specify what the system __should__ do.
 
 Examples (Booking Management Project):
@@ -90,7 +90,7 @@ Examples (Booking Management Project):
 -Customers should be able to cancel or modify bookings within the allowed time frame.
 
 
-###Nonfunctional requirements:
+### Nonfunctional requirements:
 Non-functional requirements define the overall characteristics of the system, such as usability, reliability, performance, and security.These specify __how__ the system performs its functions — focusing on quality attributes, constraints, and performance standards.
 
 Examples (Booking Management Project):
@@ -107,9 +107,25 @@ Examples (Booking Management Project):
 
 -The system should comply with GDPR standards for handling personal data.
 
-##Acceptance Criteria
 
-###Importance of Acceptance Criteria in Requirement Analysis
+## Use Case Diagrams
+Use Case Diagram is a visual representation of the interactions between actors (users or external systems) and a system. It shows what the system does (its functions) from the perspective of its users, without detailing how it is implemented. It is Commonly used during requirement analysis to capture functional requirements.
+
+### Benefits of Use Case Diagrams
+
+-Provides a clear visualization of system functionality.
+
+-Helps stakeholders understand system scope and interactions.
+
+-Serves as a communication bridge between business users and developers.
+
+-Identifies primary actors and their goals, improving requirement clarity.
+
+-Lays the foundation for test case creation.
+
+## Acceptance Criteria
+
+### Importance of Acceptance Criteria in Requirement Analysis
 
 **Defines success**: Acceptance criteria outline the conditions that a feature or system must satisfy to be considered complete and acceptable by stakeholders.
 
