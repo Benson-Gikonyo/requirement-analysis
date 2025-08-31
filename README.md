@@ -5,21 +5,6 @@ This project focuses on creating a comprehensive foundation for the airbnb clone
 ##What is Requirement Analysis?
 requirement analysis is the crucial foundational process of identifying, documenting, validating, and refining the needs and expectations of stakeholders to create a clear blueprint for a new or altered software system. It involves understanding what a system must do (functional requirements) and the constraints it must operate within (non-functional requirements), ensuring the final product aligns with business goals and user expectations. This phase prevents misunderstandings, costly rework, and ensures project success by establishing a well-defined set of requirements before development begins.
  
-Key Aspects of Requirement Analysis
-
-    Stakeholder Identification:
-    Pinpointing key stakeholders (clients, end-users, and others) who have an interest in the project and gathering their input. 
-
-Requirement Gathering:
-Using techniques like interviews, surveys, use cases, and prototypes to collect information from stakeholders. 
-Requirement Categorization:
-Sorting requirements into functional (what the system does) and non-functional (constraints like performance, security) categories to avoid confusion. 
-Analysis and Refinement:
-Examining the gathered information to uncover inconsistencies, ambiguities, and gaps, and then refining them into a clear and manageable set of requirements. 
-Requirement Documentation:
-Formalizing the refined requirements into a Software Requirements Specification (SRS) document, which serves as the basis for the entire development process. 
-Requirement Validation:
-Verifying that the documented requirements are accurate, feasible, consistent, and truly represent the stakeholders' intentions. 
 
 ##Why is Requirement Analysis Important?
 
@@ -33,5 +18,53 @@ The documented requirements act as a clear roadmap for the development team, gui
 **Facilitates Communication**:
 A well-defined set of requirements reduces communication gaps and conflicts between different teams and stakeholders. 
 
+##Key Activities in Requirement Analysis
+1. Requirement Gathering
 
+-Collects high-level requirements from stakeholders, clients, and end users.
 
+-Focuses on understanding the goals, expectations, and business needs.
+
+-Methods include interviews, surveys, questionnaires, and reviewing existing documents.
+
+-Helps create a broad picture of what the system should achieve.
+
+2. Requirement Elicitation
+
+-A deeper process of drawing out detailed requirements from stakeholders.
+
+-Involves active communication and engagement to uncover both stated and hidden needs.
+
+-Techniques include workshops, brainstorming sessions, focus groups, and observation.
+
+-Ensures requirements are not assumed but explicitly clarified.
+
+3. Requirement Documentation
+
+-Formalizes gathered and elicited requirements into a structured format.
+
+-Uses documents such as Software Requirement Specification (SRS) or user stories.
+
+-Provides a reference point for developers, testers, and project managers.
+
+-Ensures traceability by recording requirements clearly and unambiguously.
+
+4. Requirement Analysis and Modeling
+
+-Examines requirements to detect conflicts, overlaps, and feasibility issues.
+
+-Breaks down complex requirements into manageable components.
+
+-Uses models such as use case diagrams, data flow diagrams, and prototypes for visualization.
+
+-Helps both technical and non-technical stakeholders understand system behavior.
+
+5. Requirement Validation
+
+-Confirms that documented requirements reflect stakeholder needs correctly.
+
+-Ensures completeness, consistency, and alignment with business objectives.
+
+-Activities include walkthroughs, reviews, and prototyping.
+
+-Prevents costly errors by detecting issues early in the software development lifecycle.
