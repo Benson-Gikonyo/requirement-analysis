@@ -21,7 +21,7 @@ Formalizing the refined requirements into a Software Requirements Specification 
 Requirement Validation:
 Verifying that the documented requirements are accurate, feasible, consistent, and truly represent the stakeholders' intentions. 
 
-###Why is Requirement Analysis Important?
+##Why is Requirement Analysis Important?
 
     Reduces Risk:
     Early identification and analysis of requirements minimize the risk of misunderstandings that can lead to costly delays and rework later in the project. 
