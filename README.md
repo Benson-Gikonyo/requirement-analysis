@@ -106,3 +106,36 @@ Examples (Booking Management Project):
 -The user interface should be mobile-responsive and accessible on major browsers.
 
 -The system should comply with GDPR standards for handling personal data.
+
+##Acceptance Criteria
+
+###Importance of Acceptance Criteria in Requirement Analysis
+
+**Defines success**: Acceptance criteria outline the conditions that a feature or system must satisfy to be considered complete and acceptable by stakeholders.
+
+**Bridges communication**: They act as a shared understanding between developers, testers, and clients on what "done" means.
+
+**Reduces ambiguity**: Clear criteria help eliminate misunderstandings and misinterpretations of requirements.
+
+**Supports testing**: They serve as the basis for creating test cases and verifying that the system meets user needs.
+
+**Ensures quality**: By validating requirements against acceptance criteria, teams can ensure features align with business goals and user expectations.
+
+Example: Acceptance Criteria for Checkout Feature in the Booking Management System
+
+**Feature: Checkout Process for Booking**
+Acceptance Criteria:
+
+-Users must be able to proceed to checkout only if they have at least one booking in their cart.
+
+-The checkout page should display booking details, total cost, and selected dates.
+
+-Users should be able to apply discount codes or promotional vouchers (if valid).
+
+-The system must support multiple payment methods (e.g., credit card, PayPal, mobile money).
+
+-Successful payment should generate a confirmation message and a unique booking reference number.
+
+-The system must send an email confirmation to the user within 5 minutes of successful payment.
+
+-If payment fails, the system should provide an error message and allow retry without losing booking details.
