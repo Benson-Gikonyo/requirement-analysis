@@ -21,16 +21,16 @@ Formalizing the refined requirements into a Software Requirements Specification 
 Requirement Validation:
 Verifying that the documented requirements are accurate, feasible, consistent, and truly represent the stakeholders' intentions. 
 
-**Why it's Important**
+<ins>**Why it's Important**</ins>
 
     Reduces Risk:
     Early identification and analysis of requirements minimize the risk of misunderstandings that can lead to costly delays and rework later in the project. 
 
-Ensures Alignment:
+**Ensures Alignment**:
 It ensures that the final software product will meet the needs of both the users and the business goals, fostering satisfaction and project success. 
-Provides a Blueprint:
+**Provides a Blueprint**:
 The documented requirements act as a clear roadmap for the development team, guiding the design, coding, and testing phases. 
-Facilitates Communication:
+**Facilitates Communication**:
 A well-defined set of requirements reduces communication gaps and conflicts between different teams and stakeholders. 
 
 
