@@ -21,7 +21,7 @@ A well-defined set of requirements reduces communication gaps and conflicts betw
 ##Key Activities in Requirement Analysis
 1. Requirement Gathering
 
--Collects high-level requirements from stakeholders, clients, and end users.
+-Here, high level requirements are collected  from stakeholders, clients, and end users.
 
 -Focuses on understanding the goals, expectations, and business needs.
 
@@ -31,7 +31,7 @@ A well-defined set of requirements reduces communication gaps and conflicts betw
 
 2. Requirement Elicitation
 
--A deeper process of drawing out detailed requirements from stakeholders.
+-Entails a deeper process of drawing out detailed requirements from stakeholders.
 
 -Involves active communication and engagement to uncover both stated and hidden needs.
 
@@ -68,3 +68,41 @@ A well-defined set of requirements reduces communication gaps and conflicts betw
 -Activities include walkthroughs, reviews, and prototyping.
 
 -Prevents costly errors by detecting issues early in the software development lifecycle.
+
+##Types of Requirements:
+There are 2 types of requrements: **Functional** and **Nonfunctional** requrements
+
+###Functional requirements:
+Functional requirements describe the specific behavior or functions of the system, such as tasks, data processing, and user interactions.These specify what the system __should__ do.
+
+Examples (Booking Management Project):
+
+-Users should be able to register and log in using email and password.
+
+-The system must allow customers to search for available properties by location, date, and price range.
+
+-Hosts should be able to list new properties with details like description, photos, pricing, and availability.
+
+-The system should allow users to make bookings and generate a confirmation receipt.
+
+-The system must send email notifications after a booking is completed.
+
+-Customers should be able to cancel or modify bookings within the allowed time frame.
+
+
+###Nonfunctional requirements:
+Non-functional requirements define the overall characteristics of the system, such as usability, reliability, performance, and security.These specify __how__ the system performs its functions — focusing on quality attributes, constraints, and performance standards.
+
+Examples (Booking Management Project):
+
+-The system should handle up to 10,000 concurrent users without performance degradation.
+
+-Booking confirmations should be processed within 3 seconds of submission.
+
+-The platform must ensure 99.9% uptime to guarantee high availability.
+
+-All user data should be stored securely using AES-256 encryption.
+
+-The user interface should be mobile-responsive and accessible on major browsers.
+
+-The system should comply with GDPR standards for handling personal data.
